@@ -1,0 +1,24 @@
+#main>.mainbar {
+  border: 0 !important;
+}
+
+#footer {
+  border: 0 !important;
+}
+
+#webview-container {
+  background: var(--colorTabBar) !important;
+}
+
+#webpage-stack {
+  border-radius: 0.5rem !important;
+}
+
+#panels-container {
+  border: 0 !important;
+}
+
+.startpage .startpage-navigation {
+  border-radius: 0.5rem;
+  box-shadow: none;
+}
